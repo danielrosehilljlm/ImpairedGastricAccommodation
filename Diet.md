@@ -56,3 +56,7 @@ In other words, fermented beverages appear to inhibit gastric emptying to a grea
 ### Caffeine
 
 Coffeee does not seem to provoke symptoms. However, those interested in minimizing their consumption of liquids may wish to consider replacing coffee with caffeine tablets.
+
+### Disclaimer
+
+I am not a medical doctor. Rather, I am a patient trying my best to minimize symptoms from this condition. Please do not reply upon this for any dietary advice. I also do not warrant the accuracy of any information contained on this page or in this Github repository. 
